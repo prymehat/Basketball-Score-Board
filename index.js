@@ -52,4 +52,5 @@ function finish() {
     else{
         alert("It's a Tie")
     }
+    clearAll()
 }
